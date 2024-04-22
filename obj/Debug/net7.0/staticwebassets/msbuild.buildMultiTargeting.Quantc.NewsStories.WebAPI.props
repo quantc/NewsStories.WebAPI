@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Quantc.NewsStories.WebAPI.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qMAzRUNq4IHAtFI2pgrILo1El3ghr4k0CgzvPOiwDrM=",
+  "Source": "Quantc.NewsStories.WebAPI",
+  "BasePath": "_content/Quantc.NewsStories.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
