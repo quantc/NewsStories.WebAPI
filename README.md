@@ -6,13 +6,15 @@ Retrieves first n "best stories" from Hacker News API, sorted by their score
 1. Clone to local repo
 2. Make sure you have .NET 7 installed
 3. Build the solution and start the Quantc.StoriesWebAPI project
-4. Alternatively, run the following command in the terminal
-   dotnet run --project Quantc.NewsStories.WebAPI.csproj
+4. Or, run the following command in the terminal
+   
+   `dotnet run --project Quantc.NewsStories.WebAPI.csproj`
 
 **Assumptions**
 - The requirement is to fetch _Stories_ only. Thus the naming convention focuses on _Stories_.
   This feature might be a part of a bigger picture and the naming would need to reflect it but it is unknown at this time.
 - All external packages are at my disposal. Thus I am using Newtonsoft to handle Json.
+- Tests were not the aim of this excercise. Otherwise StoryService would need coverage.
 
 **Notes**
  - Two ways of caching are implemented
